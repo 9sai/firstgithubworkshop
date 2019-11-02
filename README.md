@@ -1,2 +1,2 @@
-# firstgithubworkshop
+# workshop
 my first respository
